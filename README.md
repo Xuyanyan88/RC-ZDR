@@ -1,0 +1,1 @@
+This work proposes RC-ZDR, a refined calibration algorithm for X-band phased-array weather radars (XPAR), correcting systematic bias, attenuation, and cross-polarization isolation degradation. Applied to a squall line, XPAR ZDR improves from −0.591 dB to 0.226 dB, reducing bias against S-band radar from 0.619 dB to 0.198 dB—achieving the 0.2 dB operational target.
